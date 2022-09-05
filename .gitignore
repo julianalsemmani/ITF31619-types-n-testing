@@ -371,3 +371,6 @@ $RECYCLE.BIN/
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,yarn,node,visualstudiocode,webstorm
+1-types/package-lock.json
+1-types/yarn.lock
+1-types/yarn.lock
